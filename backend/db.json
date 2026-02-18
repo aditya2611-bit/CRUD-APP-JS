@@ -1,0 +1,21 @@
+{
+  "employees": [
+    {
+      "id": "a058",
+      "firstname": "Aditya",
+      "middlename": "",
+      "lastname": "kumar",
+      "dob": "",
+      "email": "adityarrkumar111@gmail.com",
+      "maritalstatus": "",
+      "phoneno": "05461235455",
+      "address": {
+        "street": "sjsj",
+        "city": "aa",
+        "state": "sks",
+        "country": "India",
+        "zipcode": "555"
+      }
+    }
+  ]
+}
